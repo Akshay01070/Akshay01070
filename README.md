@@ -1,15 +1,14 @@
 # Hi 👋, I'm Akshay Shinde
 
-### 🚀 Full Stack Developer | MERN | DSA | Security & ML Enthusiast
+### 🚀 Actively Seeking Intern & FTE Roles | Full Stack Developer | DSA | IIIT Gwalior ’26
 
 ---
 
 ## 🌟 About Me
 
 * 💻 Passionate about **Web Development & Problem Solving**
-* 🌱 Currently learning **Advanced React, System Design & Security**
-* 🔐 Interested in **Malware Analysis & Cybersecurity Research**
-* 🤖 Working on **HyEP – Encrypted Proxy Traffic Detection**
+* 👨‍💻 All of my projects are available at https://portfolio-gamma-pearl-19.vercel.app/
+* 📄 Know about my experiences https://drive.google.com/file/d/1qSOL7GgJFK5fwLh5jxztiCx-iUSe3nLe/view?usp=sharing
 * 🧠 Love solving **DSA problems**
 * 📫 Reach me at: **[aksh582004@gmail.com](mailto:aksh582004@gmail.com)**
 
@@ -46,41 +45,23 @@
 
 ---
 
-## 🚀 Projects
 
-### 🔹 Doubtify
-
-A collaborative platform for students to ask questions, post answers, upvote, bookmark and interact.
-**Tech:** MERN Stack, Role-based access, Theme toggling
-
-### 🔹 Mystery Message
-
-Anonymous messaging platform with AI suggestions and OTP authentication.
-**Tech:** Next.js, NextAuth, MongoDB
-
-### 🔹 HyEP
-
-Hybrid Deep Learning approach for encrypted proxy traffic detection.
-
-### 🔹 Malware Analysis Lab
-
-Simulated malware behavior monitoring using Procmon, FakeNet, Regshot.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshay01070&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay01070&theme=tokyonight" />
-</p>
-
----
 
 ## 🧠 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay01070&layout=compact&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=cpp" height="50" />
+<img src="https://skillicons.dev/icons?i=js" height="50" />
+<img src="https://skillicons.dev/icons?i=ts" height="50" />
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=html" height="50" />
+<img src="https://skillicons.dev/icons?i=css" height="50" />
+
+</p>
+
+<p align="center">
+<b>C++ • JavaScript • TypeScript • Python • HTML • CSS</b>
 </p>
 
 ---
