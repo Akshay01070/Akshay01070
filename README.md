@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshay Shinde
 
-### 🚀 Actively Seeking Intern & FTE Roles | Full Stack Developer | DSA | IIIT Gwalior ’26
+### 🚀 Full Stack Developer | DSA | IIIT Gwalior ’26
 
 ---
 
